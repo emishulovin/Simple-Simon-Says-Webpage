@@ -2,4 +2,4 @@
 
 Here's a link to the webpage:
 
-simon-says-emishulovin.surge.sh
+http://www.simon-says-emishulovin.surge.sh
